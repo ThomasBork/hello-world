@@ -2,4 +2,5 @@ hello-world
 ===========
 
 Test
-Reading is fun!
+Deleting is fun!
+Adding is fun!
